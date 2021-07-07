@@ -167,16 +167,16 @@ section h2 {
  }
 
  
- .led-wall{
+ .p2{
      background-image: url("../images/chickadee.jpg");
  }
- .calculator{
+ .p3{
      background-image: url("../images/latte.jpg");
  } 
- .pastel{
+ .p4{
      background-image: url("../images/sunset.jpg");
  }
- .run{
+ .p5{
      background-image: url("../images/bumblebee.jpg");
  }
 
@@ -201,10 +201,27 @@ section h2 {
   header, header h1{
       text-align: center;
       width: 100%;
-
   }  nav, nav ul li, .h3-section {
       justify-content: center;
-  } .main-section, .flex, .center{
+      margin-left: 0%;
+  } .flex, .center, .h3-section, .banner-img, .banner-text{
       flex: 0 0 100%;
+      border-right: none;
+      border-bottom: 10px solid var(--purple);
+      align-items: stretch;
+      margin-left: 2px;
+  }.side-by-side {
+      flex: 0 0 100%;
+      width: 100%;
+  } .card1{
+      max-width: 100%;
+  } .p-font{
+      width: 100%;
   }
+}
+
+@media screen and (max-width: 768px){
+    .card1{
+        max-width: 100%;
+    }
 }
