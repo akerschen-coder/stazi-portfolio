@@ -18,7 +18,7 @@ hopefully in a more organized way with less classes that can be applied more con
 p.s check out the spotify link I put in there. 
 
 ## Video of website 
-![video of website](<iframe src="https://drive.google.com/file/d/1vmJqjiLLM_oz9pgc9R_hAJPDfo1XXNgV/preview" width="640" height="480"></iframe>) 
+https://drive.google.com/file/d/1vmJqjiLLM_oz9pgc9R_hAJPDfo1XXNgV/preview
 
 ## Deployed Link 
 https://akerschen-coder.github.io/stazi-portfolio/ 
